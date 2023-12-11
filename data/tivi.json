@@ -7,7 +7,8 @@
         "discount": "-19%",
         "price_sale": "9990000",
         "rating": "4",
-        "rating_number": "134"
+        "rating_number": "134",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235640/TimerThumb/qled-4k-samsung-qa43q65a-(56).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA43BU8000",
@@ -17,7 +18,8 @@
         "discount": "-19%",
         "price_sale": "7990000",
         "rating": "5",
-        "rating_number": "69"
+        "rating_number": "69",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273392/TimerThumb/smart-samsung-4k-43-inch-ua43bu8000-(75).jpg"
     },
     {
         "name": "Casper Android TV 32HG5200",
@@ -27,7 +29,8 @@
         "discount": "-36%",
         "price_sale": "3790000",
         "rating": "4",
-        "rating_number": "263"
+        "rating_number": "263",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236941/TimerThumb/led-casper-32hg5200-(92).jpg"
     },
     {
         "name": "Samsung Smart TV UA43AU7002",
@@ -37,7 +40,8 @@
         "discount": "-23%",
         "price_sale": "6390000",
         "rating": "4",
-        "rating_number": "150"
+        "rating_number": "150",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/279935/TimerThumb/smart-samsung-4k-43-inch-ua43au7002-(15).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA65AU8100",
@@ -47,17 +51,19 @@
         "discount": "-26%",
         "price_sale": "11990000",
         "rating": "4",
-        "rating_number": "239"
+        "rating_number": "239",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235794/TimerThumb/led-4k-samsung-ua65au8100-(37).jpg"
     },
     {
         "name": "LG Smart TV NanoCell 65NANO76SQA",
         "size": "65 inch",
         "resolution": "4K",
         "price_old": "29900000",
-        "discount": "-49%",
-        "price_sale": "14990000",
+        "discount": "-53%",
+        "price_sale": "13990000",
         "rating": "4",
-        "rating_number": "123"
+        "rating_number": "123",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278575/TimerThumb/smart-nanocell-lg-4k-65-inch-65nano76sqa-(66).jpg"
     },
     {
         "name": "TCL Google TV 43S5400",
@@ -67,7 +73,8 @@
         "discount": "-17%",
         "price_sale": "5590000",
         "rating": "4",
-        "rating_number": "33"
+        "rating_number": "33",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306073/TimerThumb/google-tivi-tcl-43-inch-43s5400-(6).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55Q65A",
@@ -77,17 +84,19 @@
         "discount": "-28%",
         "price_sale": "10990000",
         "rating": "4",
-        "rating_number": "222"
+        "rating_number": "222",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235642/TimerThumb/qled-4k-samsung-qa55q65a-(35).jpg"
     },
     {
-        "name": "Smart Tivi QLED 4K 65 inch Samsung QA65Q65A",
+        "name": "Samsung Smart TV QLED QA65Q65A",
         "size": "65 inch",
         "resolution": "4K",
         "price_old": "18890000",
         "discount": "-23%",
         "price_sale": "14490000",
         "rating": "4",
-        "rating_number": "174"
+        "rating_number": "174",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235643/TimerThumb/qled-4k-samsung-qa65q65a-(34).jpg"
     },
     {
         "name": "Sony Google TV KD-43X77L",
@@ -97,17 +106,19 @@
         "discount": "-11%",
         "price_sale": "10790000",
         "rating": "4",
-        "rating_number": "25"
+        "rating_number": "25",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308371/TimerThumb/google-tivi-sony-4k-43-inch-kd-43x77l-(20).jpg"
     },
     {
         "name": "LG Smart TV NanoCell 55NANO76SQA",
         "size": "55 inch",
         "resolution": "4K",
         "price_old": "22900000",
-        "discount": "-49%",
-        "price_sale": "11490000",
+        "discount": "-52%",
+        "price_sale": "10990000",
         "rating": "4",
-        "rating_number": "186"
+        "rating_number": "186",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278576/TimerThumb/smart-nanocell-lg-4k-55-inch-55nano76sqa-(59).jpg"
     },
     {
         "name": "TCL Google TV 32S5400",
@@ -117,7 +128,8 @@
         "discount": "-27%",
         "price_sale": "3490000",
         "rating": "4",
-        "rating_number": "38"
+        "rating_number": "38",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306075/TimerThumb/google-tivi-tcl-32-inch-32s5400-(6).jpg"
     },
     {
         "name": "LG Smart TV 43UQ8000PSC",
@@ -127,7 +139,8 @@
         "discount": "-46%",
         "price_sale": "7690000",
         "rating": "4",
-        "rating_number": "107"
+        "rating_number": "107",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278552/TimerThumb/smart-lg-4k-43-inch-43uq8000psc-(67).jpg"
     },
     {
         "name": "Toshiba Smart TV 43V31MP",
@@ -137,17 +150,19 @@
         "discount": "-28%",
         "price_sale": "4990000",
         "rating": "4",
-        "rating_number": "57"
+        "rating_number": "57",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/311367/TimerThumb/smart-tivi-toshiba-43-inch-43v31mp-(9).jpg"
     },
     {
         "name": "LG Smart TV 55UQ8000PSC",
         "size": "55 inch",
         "resolution": "4K",
         "price_old": "19900000",
-        "discount": "-47%",
-        "price_sale": "10490000",
+        "discount": "-49%",
+        "price_sale": "9990000",
         "rating": "4",
-        "rating_number": "233"
+        "rating_number": "233",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278554/TimerThumb/smart-lg-4k-55-inch-55uq8000psc-(67).jpg"
     },
     {
         "name": "Samsung Smart TV UA55BU8000",
@@ -157,7 +172,8 @@
         "discount": "-22%",
         "price_sale": "9990000",
         "rating": "4",
-        "rating_number": "39"
+        "rating_number": "39",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273391/TimerThumb/smart-samsung-4k-55-inch-ua55bu8000-(74).jpg"
     },
     {
         "name": "TCL Google TV 40S5400",
@@ -167,7 +183,8 @@
         "discount": "-15%",
         "price_sale": "4890000",
         "rating": "4",
-        "rating_number": "31"
+        "rating_number": "31",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306074/TimerThumb/google-tivi-tcl-40-inch-40s5400-(6).jpg"
     },
     {
         "name": "Casper Android TV 43FG5200",
@@ -177,7 +194,8 @@
         "discount": "-37%",
         "price_sale": "4990000",
         "rating": "4",
-        "rating_number": "230"
+        "rating_number": "230",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235015/TimerThumb/casper-43fg5200-(100).jpg"
     },
     {
         "name": "Sony Google TV KD-55X77L",
@@ -187,7 +205,8 @@
         "discount": "-8%",
         "price_sale": "14590000",
         "rating": "4",
-        "rating_number": "23"
+        "rating_number": "23",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308368/TimerThumb/google-tivi-sony-4k-55-inch-kd-55x77l-(19).jpg"
     },
     {
         "name": "TCL Google TV 58P635",
@@ -197,7 +216,8 @@
         "discount": "-23%",
         "price_sale": "7990000",
         "rating": "4",
-        "rating_number": "49"
+        "rating_number": "49",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303927/TimerThumb/google-tivi-tcl-4k-58-inch-58p635-(11).jpg"
     },
     {
         "name": "LG Smart TV 43UQ7550PSF",
@@ -207,7 +227,8 @@
         "discount": "-41%",
         "price_sale": "7490000",
         "rating": "4",
-        "rating_number": "189"
+        "rating_number": "189",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278546/TimerThumb/smart-lg-4k-43-inch-43uq7550psf-(53).jpg"
     },
     {
         "name": "LG Smart TV 65UQ8000PSC",
@@ -217,17 +238,19 @@
         "discount": "-49%",
         "price_sale": "12890000",
         "rating": "5",
-        "rating_number": "141"
+        "rating_number": "142",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278555/TimerThumb/smart-lg-4k-65-inch-65uq8000psc-(69).jpg"
     },
     {
         "name": "Sony Google TV KD-55X80K",
         "size": "55 inch",
         "resolution": "4K",
         "price_old": "17890000",
-        "discount": "-12%",
-        "price_sale": "15590000",
+        "discount": "-14%",
+        "price_sale": "15290000",
         "rating": "4",
-        "rating_number": "220"
+        "rating_number": "220",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/274761/TimerThumb/android-sony-4k-55-inch-kd-55x80k-(78).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA43Q60C",
@@ -237,7 +260,8 @@
         "discount": "-11%",
         "price_sale": "11890000",
         "rating": "4",
-        "rating_number": "10"
+        "rating_number": "10",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303226/TimerThumb/smart-tivi-qled-4k-43-inch-samsung-qa43q60c-(13).jpg"
     },
     {
         "name": "Sony Google TV KD-32W830K",
@@ -247,7 +271,8 @@
         "discount": "-8%",
         "price_sale": "7490000",
         "rating": "4",
-        "rating_number": "76"
+        "rating_number": "76",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277446/TimerThumb/google-sony-32-inch-kd-32w830k-(28).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55Q60C",
@@ -257,7 +282,8 @@
         "discount": "-8%",
         "price_sale": "15390000",
         "rating": "5",
-        "rating_number": "12"
+        "rating_number": "13",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303225/TimerThumb/smart-tivi-qled-4k-55-inch-samsung-qa55q60c-(14).jpg"
     },
     {
         "name": "Xiaomi Google TV A Pro L43M8-A2SEA",
@@ -267,7 +293,8 @@
         "discount": "-17%",
         "price_sale": "6590000",
         "rating": "4",
-        "rating_number": "24"
+        "rating_number": "24",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/312860/TimerThumb/google-tivi-xiaomi-4k-43-inch-pro-l43m8-a2sea-(8).jpg"
     },
     {
         "name": "Sony Google TV KD-50X77L",
@@ -277,7 +304,8 @@
         "discount": "-6%",
         "price_sale": "13690000",
         "rating": "4",
-        "rating_number": "7"
+        "rating_number": "7",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308369/TimerThumb/google-tivi-sony-4k-50-inch-kd-50x77l-(19).jpg"
     },
     {
         "name": "Samsung Smart TV UA32T4202",
@@ -287,7 +315,8 @@
         "discount": "",
         "price_sale": "5890000",
         "rating": "5",
-        "rating_number": "16"
+        "rating_number": "16",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/296875/TimerThumb/smart-tivi-samsung-32-inch-ua32t4202-(8).jpg"
     },
     {
         "name": "Xiaomi Google TV A L32M8-P2SEA",
@@ -297,7 +326,8 @@
         "discount": "-15%",
         "price_sale": "3790000",
         "rating": "4",
-        "rating_number": "7"
+        "rating_number": "7",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/312858/TimerThumb/google-tivi-xiaomi-32-inch-l32m8-p2sea-(8).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65Q60C",
@@ -307,7 +337,8 @@
         "discount": "-11%",
         "price_sale": "17990000",
         "rating": "4",
-        "rating_number": "11"
+        "rating_number": "11",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303224/TimerThumb/smart-tivi-qled-4k-65-inch-samsung-qa65q60c-(18).jpg"
     },
     {
         "name": "LG Smart TV NanoCell 43NANO76SQA",
@@ -317,7 +348,8 @@
         "discount": "-40%",
         "price_sale": "9490000",
         "rating": "4",
-        "rating_number": "80"
+        "rating_number": "80",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278578/TimerThumb/smart-nanocell-lg-4k-43-inch-43nano76sqa-(69).jpg"
     },
     {
         "name": "Samsung Smart TV UA55CU8000",
@@ -327,7 +359,8 @@
         "discount": "-10%",
         "price_sale": "12890000",
         "rating": "4",
-        "rating_number": "21"
+        "rating_number": "21",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303231/TimerThumb/smart-tivi-samsung-4k-55-inch-ua55cu8000-(14).jpg"
     },
     {
         "name": "TCL Google TV 43P635",
@@ -337,7 +370,8 @@
         "discount": "-21%",
         "price_sale": "6290000",
         "rating": "4",
-        "rating_number": "95"
+        "rating_number": "95",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/281934/TimerThumb/google-tcl-4k-43-inch-43p635-(43).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA50Q65A",
@@ -347,7 +381,8 @@
         "discount": "-23%",
         "price_sale": "10990000",
         "rating": "4",
-        "rating_number": "179"
+        "rating_number": "179",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235641/TimerThumb/qled-4k-samsung-qa50q65a-(110).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55Q60B",
@@ -357,7 +392,19 @@
         "discount": "-24%",
         "price_sale": "11990000",
         "rating": "4",
-        "rating_number": "68"
+        "rating_number": "68",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273925/TimerThumb/smart-qled-4k-55-inch-samsung-qa55q60b-(81).jpg"
+    },
+    {
+        "name": "Sony Google TV KD-65X77L",
+        "size": "65 inch",
+        "resolution": "4K",
+        "price_old": "20390000",
+        "discount": "-11%",
+        "price_sale": "17990000",
+        "rating": "4",
+        "rating_number": "15",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308367/TimerThumb/google-tivi-sony-4k-65-inch-kd-65x77l-(16).jpg"
     },
     {
         "name": "Sony Google TV KD-43X75K",
@@ -367,27 +414,19 @@
         "discount": "-17%",
         "price_sale": "9390000",
         "rating": "4",
-        "rating_number": "277"
-    },
-    {
-        "name": "Sony Google TV KD-65X77L",
-        "size": "65 inch",
-        "resolution": "4K",
-        "price_old": "20390000",
-        "discount": "-10%",
-        "price_sale": "18190000",
-        "rating": "4",
-        "rating_number": "15"
+        "rating_number": "277",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/275517/TimerThumb/google-sony-4k-43-inch-kd-43x75k-(66).jpg"
     },
     {
         "name": "Toshiba Smart TV 55E330MP",
         "size": "55 inch",
         "resolution": "4K",
         "price_old": "11990000",
-        "discount": "-25%",
-        "price_sale": "8990000",
+        "discount": "-29%",
+        "price_sale": "8490000",
         "rating": "5",
-        "rating_number": "15"
+        "rating_number": "15",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/311368/TimerThumb/smart-tivi-toshiba-4k-55-inch-55e330mp-(8).jpg"
     },
     {
         "name": "Xiaomi Google TV A L55M8-P2SEA",
@@ -397,7 +436,8 @@
         "discount": "-22%",
         "price_sale": "8490000",
         "rating": "5",
-        "rating_number": "9"
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/312857/TimerThumb/google-tivi-xiaomi-4k-55-inch-l55m8-p2sea-(7).jpg"
     },
     {
         "name": "Samsung Smart TV UA43CU8000",
@@ -407,7 +447,8 @@
         "discount": "-7%",
         "price_sale": "10490000",
         "rating": "4",
-        "rating_number": "10"
+        "rating_number": "10",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303233/TimerThumb/smart-tivi-samsung-4k-43-inch-ua43cu8000-(14).jpg"
     },
     {
         "name": "TCL Google TV QLED 55Q646",
@@ -417,7 +458,8 @@
         "discount": "-33%",
         "price_sale": "9990000",
         "rating": "4",
-        "rating_number": "24"
+        "rating_number": "24",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303515/TimerThumb/google-tivi-qled-tcl-4k-55-inch-55q646-(8).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65Q60B",
@@ -427,7 +469,8 @@
         "discount": "-29%",
         "price_sale": "13390000",
         "rating": "4",
-        "rating_number": "55"
+        "rating_number": "55",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273923/TimerThumb/smart-qled-4k-65-inch-samsung-qa65q60b-(82).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA50Q60C",
@@ -437,7 +480,8 @@
         "discount": "-15%",
         "price_sale": "13390000",
         "rating": "4",
-        "rating_number": "9"
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303227/TimerThumb/smart-tivi-qled-4k-50-inch-samsung-qa50q60c-(13).jpg"
     },
     {
         "name": "TCL Google TV 43P737",
@@ -447,17 +491,19 @@
         "discount": "-17%",
         "price_sale": "6990000",
         "rating": "4",
-        "rating_number": "63"
+        "rating_number": "63",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/272078/TimerThumb/android-tcl-4k-43-inch-43p737-(59).jpg"
     },
     {
         "name": "Sony Google TV KD-65X80K",
         "size": "65 inch",
         "resolution": "4K",
         "price_old": "21890000",
-        "discount": "-10%",
-        "price_sale": "19690000",
+        "discount": "-12%",
+        "price_sale": "19190000",
         "rating": "4",
-        "rating_number": "137"
+        "rating_number": "137",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/274760/TimerThumb/android-sony-4k-65-inch-kd-65x80k-(77).jpg"
     },
     {
         "name": "Sony Google TV KD-55X75K",
@@ -467,7 +513,8 @@
         "discount": "-22%",
         "price_sale": "11890000",
         "rating": "4",
-        "rating_number": "219"
+        "rating_number": "219",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/275512/TimerThumb/google-sony-4k-55-inch-kd-55x75k-(62).jpg"
     },
     {
         "name": "Toshiba Google TV 43C350LP",
@@ -477,7 +524,8 @@
         "discount": "-15%",
         "price_sale": "8490000",
         "rating": "5",
-        "rating_number": "199"
+        "rating_number": "199",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297318/TimerThumb/google-tivi-toshiba-4k-43-inch-43c350lp-(31).jpg"
     },
     {
         "name": "TCL Google TV QLED 43Q646",
@@ -487,27 +535,30 @@
         "discount": "-30%",
         "price_sale": "7590000",
         "rating": "4",
-        "rating_number": "24"
+        "rating_number": "24",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303513/TimerThumb/google-tivi-qled-tcl-4k-43-inch-43q646-(8).jpg"
     },
     {
         "name": "Sony Google TV KD-50X80K",
         "size": "50 inch",
         "resolution": "4K",
         "price_old": "16390000",
-        "discount": "-10%",
-        "price_sale": "14690000",
+        "discount": "-13%",
+        "price_sale": "14190000",
         "rating": "4",
-        "rating_number": "118"
+        "rating_number": "118",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/274762/TimerThumb/android-sony-4k-50-inch-kd-50x80k-(78).jpg"
     },
     {
         "name": "Sony Google TV KD-43X80K",
         "size": "43 inch",
         "resolution": "4K",
         "price_old": "14390000",
-        "discount": "-9%",
-        "price_sale": "13090000",
+        "discount": "-11%",
+        "price_sale": "12790000",
         "rating": "4",
-        "rating_number": "142"
+        "rating_number": "142",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/274763/TimerThumb/android-sony-4k-43-inch-kd-43x80k-(68).jpg"
     },
     {
         "name": "TCL Google TV 55P737",
@@ -517,7 +568,8 @@
         "discount": "-18%",
         "price_sale": "8990000",
         "rating": "4",
-        "rating_number": "62"
+        "rating_number": "62",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/272080/TimerThumb/android-tcl-4k-55-inch-55p737-(59).jpg"
     },
     {
         "name": "LG Smart TV 50UQ8000PSC",
@@ -527,17 +579,8 @@
         "discount": "-44%",
         "price_sale": "9690000",
         "rating": "4",
-        "rating_number": "54"
-    },
-    {
-        "name": "Sharp Android TV 2T-C32EG2X",
-        "size": "32 inch",
-        "resolution": "HD",
-        "price_old": "5290000",
-        "discount": "-24%",
-        "price_sale": "3990000",
-        "rating": "4",
-        "rating_number": "40"
+        "rating_number": "54",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/280176/TimerThumb/smart-lg-4k-50-inch-50uq8000psc-(58).jpg"
     },
     {
         "name": "Sharp Android TV 2T-C42EG2X",
@@ -547,7 +590,8 @@
         "discount": "-21%",
         "price_sale": "5690000",
         "rating": "4",
-        "rating_number": "60"
+        "rating_number": "60",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/293016/TimerThumb/android-tivi-sharp-42-inch-2t-c42eg2x-(15).jpg"
     },
     {
         "name": "Samsung Smart TV UA50CU8000",
@@ -557,7 +601,8 @@
         "discount": "-9%",
         "price_sale": "12090000",
         "rating": "4",
-        "rating_number": "12"
+        "rating_number": "12",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303232/TimerThumb/smart-tivi-samsung-4k-50-inch-ua50cu8000-(13).jpg"
     },
     {
         "name": "LG Smart TV 50UQ7550PSF",
@@ -567,7 +612,8 @@
         "discount": "-39%",
         "price_sale": "8990000",
         "rating": "4",
-        "rating_number": "113"
+        "rating_number": "113",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278547/TimerThumb/smart-lg-4k-50-inch-50uq7550psf-(72).jpg"
     },
     {
         "name": "AQUA Android TV AQT43D67FG",
@@ -577,7 +623,19 @@
         "discount": "-10%",
         "price_sale": "5790000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/310791/TimerThumb/android-tivi-aqua-43-inch-aqt43d67fg-(8).jpg"
+    },
+    {
+        "name": "Sharp Android TV 2T-C32EG2X",
+        "size": "32 inch",
+        "resolution": "HD",
+        "price_old": "5290000",
+        "discount": "-24%",
+        "price_sale": "3990000",
+        "rating": "4",
+        "rating_number": "40",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/293015/TimerThumb/android-tivi-sharp-32-inch-2t-c32eg2x-(9).jpg"
     },
     {
         "name": "Samsung Smart TV UA55AU7002",
@@ -587,7 +645,8 @@
         "discount": "-22%",
         "price_sale": "8490000",
         "rating": "4",
-        "rating_number": "44"
+        "rating_number": "44",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/279933/TimerThumb/smart-samsung-4k-55-inch-ua55au7002-(14).jpg"
     },
     {
         "name": "Sony Google TV KD-55X80L",
@@ -597,7 +656,8 @@
         "discount": "-13%",
         "price_sale": "16390000",
         "rating": "5",
-        "rating_number": "5"
+        "rating_number": "5",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304827/TimerThumb/google-tivi-sony-4k-55-inch-55x80l-(8).jpg"
     },
     {
         "name": "Toshiba Google TV 55C350LP",
@@ -607,7 +667,8 @@
         "discount": "-33%",
         "price_sale": "9990000",
         "rating": "5",
-        "rating_number": "92"
+        "rating_number": "92",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297321/TimerThumb/google-tivi-toshiba-4k-55-inch-55c350lp-(29).jpg"
     },
     {
         "name": "Samsung Smart TV UA65CU8000",
@@ -617,7 +678,8 @@
         "discount": "-8%",
         "price_sale": "16390000",
         "rating": "4",
-        "rating_number": "9"
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303230/TimerThumb/smart-tivi-samsung-4k-65-inch-ua65cu8000-(16).jpg"
     },
     {
         "name": "LG Smart TV NanoCell 50NANO76SQA",
@@ -627,7 +689,8 @@
         "discount": "-43%",
         "price_sale": "10890000",
         "rating": "4",
-        "rating_number": "54"
+        "rating_number": "54",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278577/TimerThumb/smart-nanocell-lg-4k-50-inch-50nano76sqa-(69).jpg"
     },
     {
         "name": "LG Smart TV 55UQ7550PSF",
@@ -637,7 +700,8 @@
         "discount": "-43%",
         "price_sale": "9490000",
         "rating": "4",
-        "rating_number": "92"
+        "rating_number": "92",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278549/TimerThumb/smart-lg-4k-55-inch-55uq7550psf-(68).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA65BU8000",
@@ -647,7 +711,8 @@
         "discount": "-21%",
         "price_sale": "12490000",
         "rating": "4",
-        "rating_number": "18"
+        "rating_number": "18",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273380/TimerThumb/smart-samsung-4k-65-inch-ua65bu8000-(74).jpg"
     },
     {
         "name": "Sony Google TV KD-65X80L",
@@ -657,7 +722,8 @@
         "discount": "-15%",
         "price_sale": "19890000",
         "rating": "4",
-        "rating_number": "11"
+        "rating_number": "11",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304826/TimerThumb/google-tivi-sony-4k-65-inch-65x80l-(14).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65Q80C",
@@ -667,7 +733,8 @@
         "discount": "-20%",
         "price_sale": "25490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303215/TimerThumb/smart-tivi-qled-4k-65-inch-samsung-qa65q80c-(14).jpg"
     },
     {
         "name": "TCL Google TV 65P635",
@@ -677,7 +744,8 @@
         "discount": "-29%",
         "price_sale": "9890000",
         "rating": "4",
-        "rating_number": "34"
+        "rating_number": "34",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/281937/TimerThumb/google-tcl-4k-65-inch-65p635-(39).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA75AU8100",
@@ -687,7 +755,8 @@
         "discount": "-35%",
         "price_sale": "17900000",
         "rating": "4",
-        "rating_number": "44"
+        "rating_number": "44",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235796/TimerThumb/led-4k-samsung-ua75au8100-(34).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55Q70C",
@@ -697,7 +766,8 @@
         "discount": "",
         "price_sale": "21890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303222/TimerThumb/smart-tivi-qled-4k-55-inch-samsung-qa55q70c-(16).jpg"
     },
     {
         "name": "TCL Google TV QLED 65Q646",
@@ -707,7 +777,8 @@
         "discount": "-37%",
         "price_sale": "11890000",
         "rating": "4",
-        "rating_number": "9"
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303514/TimerThumb/google-tivi-qled-tcl-4k-65-inch-65q646-(6).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65Q70C",
@@ -717,7 +788,8 @@
         "discount": "-16%",
         "price_sale": "21490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303221/TimerThumb/smart-tivi-qled-4k-65-inch-samsung-qa65q70c-(15).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA50BU8000",
@@ -727,7 +799,8 @@
         "discount": "-20%",
         "price_sale": "9490000",
         "rating": "4",
-        "rating_number": "31"
+        "rating_number": "31",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273389/TimerThumb/smart-samsung-4k-50-inch-ua50bu8000-(78).jpg"
     },
     {
         "name": "TCL Google TV 50P737",
@@ -737,7 +810,8 @@
         "discount": "-15%",
         "price_sale": "7990000",
         "rating": "4",
-        "rating_number": "40"
+        "rating_number": "40",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/272079/TimerThumb/android-tcl-4k-50-inch-50p737-(59).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA50Q60B",
@@ -747,7 +821,8 @@
         "discount": "-26%",
         "price_sale": "10890000",
         "rating": "4",
-        "rating_number": "28"
+        "rating_number": "28",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273927/TimerThumb/smart-qled-4k-50-inch-samsung-qa50q60b-(73).jpg"
     },
     {
         "name": "Sony Google TV KD-50X80L",
@@ -757,7 +832,8 @@
         "discount": "-8%",
         "price_sale": "15800000",
         "rating": "4",
-        "rating_number": "9"
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304828/TimerThumb/google-tivi-sony-4k-50-inch-50x80l-(7).jpg"
     },
     {
         "name": "Sony Google TV KD-50X75K",
@@ -767,7 +843,8 @@
         "discount": "-14%",
         "price_sale": "11890000",
         "rating": "4",
-        "rating_number": "104"
+        "rating_number": "104",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/275514/TimerThumb/google-sony-4k-50-inch-kd-50x75k-(54).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA75Q80C",
@@ -777,27 +854,19 @@
         "discount": "-30%",
         "price_sale": "31900000",
         "rating": "4",
-        "rating_number": "4"
-    },
-    {
-        "name": "LG Smart TV 65UR7550PSC",
-        "size": "65 inch",
-        "resolution": "4K",
-        "price_old": "16900000",
-        "discount": "-17%",
-        "price_sale": "13890000",
-        "rating": "4",
-        "rating_number": "9"
+        "rating_number": "4",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303214/TimerThumb/smart-tivi-qled-4k-75-inch-samsung-qa75q80c-(17).jpg"
     },
     {
         "name": "LG Smart TV NanoCell 75NANO76SQA",
         "size": "75 inch",
         "resolution": "4K",
         "price_old": "46900000",
-        "discount": "-55%",
-        "price_sale": "20790000",
+        "discount": "-43%",
+        "price_sale": "26460000",
         "rating": "4",
-        "rating_number": "23"
+        "rating_number": "23",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278572/TimerThumb/smart-nanocell-lg-4k-75-inch-75nano76sqa-(71).jpg"
     },
     {
         "name": "Samsung Smart TV UA50AU7002",
@@ -807,7 +876,8 @@
         "discount": "-19%",
         "price_sale": "7990000",
         "rating": "4",
-        "rating_number": "57"
+        "rating_number": "57",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/279934/TimerThumb/smart-samsung-4k-50-inch-ua50au7002-(18).jpg"
     },
     {
         "name": "TCL Google TV QLED 50Q646",
@@ -817,7 +887,8 @@
         "discount": "-30%",
         "price_sale": "8990000",
         "rating": "4",
-        "rating_number": "6"
+        "rating_number": "6",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303516/TimerThumb/google-tivi-qled-tcl-4k-50-inch-50q646-(3).jpg"
     },
     {
         "name": "Sony Google TV KD-65X75K",
@@ -827,7 +898,8 @@
         "discount": "-21%",
         "price_sale": "14890000",
         "rating": "4",
-        "rating_number": "104"
+        "rating_number": "104",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/275510/TimerThumb/google-sony-4k-65-inch-kd-65x75k-(21).jpg"
     },
     {
         "name": "LG Smart TV 75UQ8000PSC",
@@ -837,7 +909,8 @@
         "discount": "-50%",
         "price_sale": "17890000",
         "rating": "4",
-        "rating_number": "45"
+        "rating_number": "45",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278557/TimerThumb/smart-lg-4k-75-inch-75uq8000psc-(69).jpg"
     },
     {
         "name": "LG Smart TV 65QNED80SRA",
@@ -847,7 +920,8 @@
         "discount": "-29%",
         "price_sale": "20490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306586/TimerThumb/smart-tivi-qned-lg-4k-65-inch-65qned80sra-(13).jpg"
     },
     {
         "name": "Samsung Smart TV UA43T6500",
@@ -857,7 +931,19 @@
         "discount": "-15%",
         "price_sale": "7490000",
         "rating": "4",
-        "rating_number": "47"
+        "rating_number": "47",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/219401/TimerThumb/samsung-ua43t6500-(103).jpg"
+    },
+    {
+        "name": "LG Smart TV 65UR7550PSC",
+        "size": "65 inch",
+        "resolution": "4K",
+        "price_old": "16900000",
+        "discount": "-17%",
+        "price_sale": "13890000",
+        "rating": "4",
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306591/TimerThumb/smart-tivi-lg-4k-65-inch-65ur7550psc-(8).jpg"
     },
     {
         "name": "LG Smart TV 55QNED80SRA",
@@ -867,7 +953,8 @@
         "discount": "-29%",
         "price_sale": "17490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306585/TimerThumb/smart-tivi-qned-lg-4k-55-inch-55qned80sra-(14).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA43Q60B",
@@ -877,7 +964,8 @@
         "discount": "-24%",
         "price_sale": "9790000",
         "rating": "4",
-        "rating_number": "35"
+        "rating_number": "35",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273928/TimerThumb/smart-qled-4k-43-inch-samsung-qa43q60b-(73).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA50AU8100",
@@ -887,7 +975,8 @@
         "discount": "-24%",
         "price_sale": "9300000",
         "rating": "4",
-        "rating_number": "223"
+        "rating_number": "223",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235791/TimerThumb/led-4k-samsung-ua50au8100-(38).jpg"
     },
     {
         "name": "AQUA Android TV AQT55D67UG",
@@ -897,7 +986,19 @@
         "discount": "-16%",
         "price_sale": "7890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/310792/TimerThumb/android-tivi-aqua-4k-55-inch-aqt55d67ug-(7).jpg"
+    },
+    {
+        "name": "Sony Google TV KD-75X80K",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "32890000",
+        "discount": "-16%",
+        "price_sale": "27590000",
+        "rating": "4",
+        "rating_number": "42",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/274757/TimerThumb/android-sony-4k-75-inch-kd-75x80k-(73).jpg"
     },
     {
         "name": "Sony Google TV KD-75X77L",
@@ -907,27 +1008,19 @@
         "discount": "-19%",
         "price_sale": "24990000",
         "rating": "4",
-        "rating_number": "3"
-    },
-    {
-        "name": "Sony Google TV KD-75X80K",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "32890000",
-        "discount": "-14%",
-        "price_sale": "28090000",
-        "rating": "4",
-        "rating_number": "42"
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308366/TimerThumb/google-tivi-sony-4k-75-inch-kd-75x77l-(16).jpg"
     },
     {
         "name": "LG Smart TV OLED 55A3PSA",
         "size": "55 inch",
         "resolution": "4K",
         "price_old": "39900000",
-        "discount": "-42%",
-        "price_sale": "22890000",
+        "discount": "-28%",
+        "price_sale": "28460000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306573/TimerThumb/smart-tivi-oled-lg-4k-55-inch-55a3psa-(13).jpg"
     },
     {
         "name": "Casper Android TV QLED 55QG8000",
@@ -937,7 +1030,8 @@
         "discount": "-50%",
         "price_sale": "7990000",
         "rating": "4",
-        "rating_number": "37"
+        "rating_number": "37",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/275219/TimerThumb/android-qled-4k-55-inch-casper-55qc8000-(65).jpg"
     },
     {
         "name": "AQUA Android TV LE32AQT6600G",
@@ -947,17 +1041,8 @@
         "discount": "-40%",
         "price_sale": "3590000",
         "rating": "4",
-        "rating_number": "4"
-    },
-    {
-        "name": "Casper Android TV 50UGA610",
-        "size": "50 inch",
-        "resolution": "4K",
-        "price_old": "9990000",
-        "discount": "-30%",
-        "price_sale": "6990000",
-        "rating": "4",
-        "rating_number": "6"
+        "rating_number": "4",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/309559/TimerThumb/android-tivi-aqua-32-inch-le32aqt6600g-(7).jpg"
     },
     {
         "name": "LG Smart TV 65UR9050PSK",
@@ -967,7 +1052,8 @@
         "discount": "-29%",
         "price_sale": "15490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306594/TimerThumb/smart-tivi-lg-4k-65-inch-65ur9050psk-(14).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA50Q80B",
@@ -977,7 +1063,19 @@
         "discount": "-39%",
         "price_sale": "11990000",
         "rating": "4",
-        "rating_number": "23"
+        "rating_number": "23",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273413/TimerThumb/smart-qled-4k-50-inch-samsung-qa50q80b-(82).jpg"
+    },
+    {
+        "name": "Casper Android TV 50UGA610",
+        "size": "50 inch",
+        "resolution": "4K",
+        "price_old": "9990000",
+        "discount": "-30%",
+        "price_sale": "6990000",
+        "rating": "4",
+        "rating_number": "6",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/287427/TimerThumb/android-casper-4k-50-inch-50uga610-(8).jpg"
     },
     {
         "name": "Samsung Smart TV UA32T4300",
@@ -987,7 +1085,8 @@
         "discount": "-27%",
         "price_sale": "5490000",
         "rating": "4",
-        "rating_number": "63"
+        "rating_number": "63",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/219400/TimerThumb/samsung-ua32t4300-(103).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65QN90B",
@@ -997,7 +1096,8 @@
         "discount": "-38%",
         "price_sale": "27490000",
         "rating": "4",
-        "rating_number": "10"
+        "rating_number": "10",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273397/TimerThumb/smart-neo-qled-4k-65-inch-samsung-qa65qn90b-(73).jpg"
     },
     {
         "name": "TCL Google TV 65P737",
@@ -1007,7 +1107,8 @@
         "discount": "-17%",
         "price_sale": "11990000",
         "rating": "4",
-        "rating_number": "13"
+        "rating_number": "13",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/272081/TimerThumb/android-tcl-4k-65-inch-65p737-(57).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA75Q60C",
@@ -1017,7 +1118,8 @@
         "discount": "-5%",
         "price_sale": "33890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303223/TimerThumb/smart-tivi-qled-4k-75-inch-samsung-qa75q60c-(15).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55Q70B",
@@ -1027,7 +1129,8 @@
         "discount": "-31%",
         "price_sale": "12990000",
         "rating": "4",
-        "rating_number": "23"
+        "rating_number": "23",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273369/TimerThumb/smart-qled-4k-55-inch-samsung-qa55q70b-(71).jpg"
     },
     {
         "name": "Casper Android TV 55UGA610",
@@ -1037,7 +1140,8 @@
         "discount": "-36%",
         "price_sale": "6990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/287426/TimerThumb/android-casper-4k-55-inch-55uga610-(10).jpg"
     },
     {
         "name": "Toshiba Google TV 65C350LP",
@@ -1047,7 +1151,8 @@
         "discount": "-28%",
         "price_sale": "14990000",
         "rating": "5",
-        "rating_number": "68"
+        "rating_number": "68",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297322/TimerThumb/google-tivi-toshiba-4k-65-inch-65c350lp-(27).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55Q80B",
@@ -1057,7 +1162,8 @@
         "discount": "-33%",
         "price_sale": "15490000",
         "rating": "4",
-        "rating_number": "31"
+        "rating_number": "31",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/275491/TimerThumb/smart-qled-4k-55-inch-samsung-qa55q80b-(54).jpg"
     },
     {
         "name": "AQUA Google TV AQT50P750UG",
@@ -1067,7 +1173,8 @@
         "discount": "-10%",
         "price_sale": "8490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/310793/TimerThumb/google-tivi-aqua-4k-50-inch-aqt50p750ug-(7).jpg"
     },
     {
         "name": "iFFALCON Android TV 32S52",
@@ -1077,7 +1184,8 @@
         "discount": "-21%",
         "price_sale": "3590000",
         "rating": "4",
-        "rating_number": "52"
+        "rating_number": "52",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/286103/TimerThumb/android-iffalcon-32-inch-32s52-(17).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55Q80C",
@@ -1087,7 +1195,8 @@
         "discount": "-15%",
         "price_sale": "21990000",
         "rating": "4",
-        "rating_number": "3"
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303216/TimerThumb/smart-tivi-qled-4k-55-inch-samsung-qa55q80c-(14).jpg"
     },
     {
         "name": "Sony Google TV KD-43X80L",
@@ -1097,7 +1206,8 @@
         "discount": "-5%",
         "price_sale": "14800000",
         "rating": "4",
-        "rating_number": "7"
+        "rating_number": "7",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304829/TimerThumb/google-tivi-sony-4k-43-inch-43x80l-(7).jpg"
     },
     {
         "name": "Casper Android TV 55UG6100",
@@ -1107,37 +1217,8 @@
         "discount": "-46%",
         "price_sale": "7490000",
         "rating": "4",
-        "rating_number": "77"
-    },
-    {
-        "name": "Samsung Smart TV QLED QA75Q70C",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "39890000",
-        "discount": "-26%",
-        "price_sale": "29490000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "LG Smart TV 75UR7550PSC",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "26900000",
-        "discount": "-33%",
-        "price_sale": "17890000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Samsung Smart TV QLED QA55QN85B",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "32890000",
-        "discount": "-34%",
-        "price_sale": "21490000",
-        "rating": "5",
-        "rating_number": "18"
+        "rating_number": "78",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/245556/TimerThumb/smart-casper-4k-55-inch-55ug6100-(100).jpg"
     },
     {
         "name": "Samsung Smart TV UA65AU7002",
@@ -1147,7 +1228,41 @@
         "discount": "-17%",
         "price_sale": "11390000",
         "rating": "4",
-        "rating_number": "24"
+        "rating_number": "24",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/279932/TimerThumb/smart-samsung-4k-65-inch-ua65au7002-(14).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED QA75Q70C",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "",
+        "discount": "",
+        "price_sale": "39890000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303220/TimerThumb/smart-tivi-qled-4k-75-inch-samsung-qa75q70c-(15).jpg"
+    },
+    {
+        "name": "LG Smart TV 75UR7550PSC",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "26900000",
+        "discount": "-33%",
+        "price_sale": "17890000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306596/TimerThumb/smart-tivi-lg-4k-75-inch-75ur7550psc-(13).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED QA55QN85B",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "32890000",
+        "discount": "-34%",
+        "price_sale": "21490000",
+        "rating": "5",
+        "rating_number": "18",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273404/TimerThumb/smart-neo-qled-4k-55-inch-samsung-qa55qn85b-(73).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA50Q80C",
@@ -1157,27 +1272,30 @@
         "discount": "-33%",
         "price_sale": "15890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303218/TimerThumb/smart-tivi-qled-4k-50-inch-samsung-qa50q80c-(13).jpg"
     },
     {
         "name": "LG Smart TV OLED 55C3PSA",
         "size": "55 inch",
         "resolution": "4K",
         "price_old": "44900000",
-        "discount": "-38%",
-        "price_sale": "27390000",
+        "discount": "-19%",
+        "price_sale": "36260000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306576/TimerThumb/smart-tivi-oled-lg-4k-55-inch-55c3psa-(13).jpg"
     },
     {
         "name": "LG Smart TV OLED 65C3PSA",
         "size": "65 inch",
         "resolution": "4K",
         "price_old": "63900000",
-        "discount": "-28%",
-        "price_sale": "45890000",
+        "discount": "-6%",
+        "price_sale": "59900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306577/TimerThumb/smart-tivi-oled-lg-4k-65-inch-65c3psa-(14).jpg"
     },
     {
         "name": "LG Smart TV 50QNED80SRA",
@@ -1187,7 +1305,8 @@
         "discount": "-28%",
         "price_sale": "14890000",
         "rating": "5",
-        "rating_number": "4"
+        "rating_number": "4",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306584/TimerThumb/smart-tivi-qned-lg-4k-50-inch-50qned80sra-(13).jpg"
     },
     {
         "name": "LG Smart TV 75QNED80SRA",
@@ -1197,7 +1316,8 @@
         "discount": "-35%",
         "price_sale": "28890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306587/TimerThumb/smart-tivi-qned-lg-4k-75-inch-75qned80sra-(13).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA55AU8100",
@@ -1207,67 +1327,8 @@
         "discount": "-21%",
         "price_sale": "10490000",
         "rating": "4",
-        "rating_number": "384"
-    },
-    {
-        "name": "Samsung Smart TV QLED QA75Q65A",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "33890000",
-        "discount": "-33%",
-        "price_sale": "22690000",
-        "rating": "5",
-        "rating_number": "22"
-    },
-    {
-        "name": "Casper Smart TV 55UW6000",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "13690000",
-        "discount": "-45%",
-        "price_sale": "7490000",
-        "rating": "4",
-        "rating_number": "120"
-    },
-    {
-        "name": "Samsung Smart TV QLED Khung tranh QA65LS03B",
-        "size": "65 inch",
-        "resolution": "4K",
-        "price_old": "30390000",
-        "discount": "-27%",
-        "price_sale": "21990000",
-        "rating": "4",
-        "rating_number": "11"
-    },
-    {
-        "name": "Sony Google TV KD-65X85L",
-        "size": "65 inch",
-        "resolution": "4K",
-        "price_old": "30890000",
-        "discount": "",
-        "price_sale": "29890000",
-        "rating": "5",
-        "rating_number": "3"
-    },
-    {
-        "name": "AQUA Google TV AQT55P750UG",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "10490000",
-        "discount": "",
-        "price_sale": "9990000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Sony Google TV XR-55X90K",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "25890000",
-        "discount": "-12%",
-        "price_sale": "22590000",
-        "rating": "4",
-        "rating_number": "26"
+        "rating_number": "384",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235792/TimerThumb/led-4k-samsung-ua55au8100-(96).jpg"
     },
     {
         "name": "Sony Google TV KD-55X85L",
@@ -1277,67 +1338,74 @@
         "discount": "",
         "price_sale": "22890000",
         "rating": "5",
-        "rating_number": "3"
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306493/TimerThumb/google-tivi-sony-4k-55-inch-kd-55x85l-(13).jpg"
     },
     {
-        "name": "Sony Google TV XR-65X90L",
-        "size": "65 inch",
-        "resolution": "4K",
-        "price_old": "36390000",
-        "discount": "",
-        "price_sale": "34890000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Samsung Smart TV UA32T4500",
-        "size": "32 inch",
-        "resolution": "HD",
-        "price_old": "6890000",
-        "discount": "-5%",
-        "price_sale": "6490000",
-        "rating": "4",
-        "rating_number": "98"
-    },
-    {
-        "name": "Samsung Smart TV QLED QA85Q60B",
-        "size": "85 inch",
-        "resolution": "4K",
-        "price_old": "46890000",
-        "discount": "-28%",
-        "price_sale": "33490000",
-        "rating": "5",
-        "rating_number": "14"
-    },
-    {
-        "name": "LG Smart TV OLED 55C2PSA",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "49900000",
-        "discount": "-54%",
-        "price_sale": "22900000",
-        "rating": "4",
-        "rating_number": "41"
-    },
-    {
-        "name": "Samsung Smart TV QLED QA55QN90C",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "41890000",
-        "discount": "-31%",
-        "price_sale": "28900000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "TCL Google TV 75P737",
+        "name": "Samsung Smart TV QLED QA75Q65A",
         "size": "75 inch",
         "resolution": "4K",
-        "price_old": "19990000",
-        "discount": "-17%",
-        "price_sale": "16490000",
+        "price_old": "33890000",
+        "discount": "-33%",
+        "price_sale": "22690000",
+        "rating": "5",
+        "rating_number": "22",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235644/TimerThumb/qled-4k-samsung-qa75q65a-(31).jpg"
+    },
+    {
+        "name": "Casper Smart TV 55UW6000",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "13690000",
+        "discount": "-45%",
+        "price_sale": "7490000",
+        "rating": "4",
+        "rating_number": "120",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/249026/TimerThumb/smart-casper-4k-55-inch-55uw6000-(94).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED Khung tranh QA65LS03B",
+        "size": "65 inch",
+        "resolution": "4K",
+        "price_old": "30390000",
+        "discount": "-27%",
+        "price_sale": "21990000",
+        "rating": "4",
+        "rating_number": "11",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273406/TimerThumb/smart-khung-tranh-the-frame-qled-samsung-4k-65-inch-qa65ls03b-(78).jpg"
+    },
+    {
+        "name": "Sony Google TV KD-65X85L",
+        "size": "65 inch",
+        "resolution": "4K",
+        "price_old": "30890000",
+        "discount": "",
+        "price_sale": "29890000",
+        "rating": "5",
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/307267/TimerThumb/google-tivi-sony-4k-65-inch-kd-65x85l-(15).jpg"
+    },
+    {
+        "name": "AQUA Google TV AQT55P750UG",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "10490000",
+        "discount": "",
+        "price_sale": "9990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/310794/TimerThumb/google-tivi-aqua-4k-55-inch-aqt55p750ug-(7).jpg"
+    },
+    {
+        "name": "Sony Google TV XR-55X90K",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "25890000",
+        "discount": "-12%",
+        "price_sale": "22590000",
+        "rating": "4",
+        "rating_number": "26",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277436/TimerThumb/google-sony-4k-55-inch-xr-55x90k-(77).jpg"
     },
     {
         "name": "LG Smart TV OLED 48A3PSA",
@@ -1347,237 +1415,63 @@
         "discount": "-16%",
         "price_sale": "26730000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306571/TimerThumb/smart-tivi-oled-lg-4k-48-inch-48a3psa-(13).jpg"
     },
     {
-        "name": "Casper Smart TV 32HX6200",
+        "name": "Sony Google TV XR-65X90L",
+        "size": "65 inch",
+        "resolution": "4K",
+        "price_old": "36390000",
+        "discount": "",
+        "price_sale": "34890000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/307263/TimerThumb/google-tivi-sony-4k-65-inch-xr-65x90l-(13).jpg"
+    },
+    {
+        "name": "Samsung Smart TV UA32T4500",
         "size": "32 inch",
         "resolution": "HD",
-        "price_old": "4990000",
-        "discount": "-24%",
-        "price_sale": "3790000",
+        "price_old": "6890000",
+        "discount": "-5%",
+        "price_sale": "6490000",
         "rating": "4",
-        "rating_number": "182"
+        "rating_number": "98",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/219392/TimerThumb/samsung-ua32t4500-(119).jpg"
     },
     {
-        "name": "LG Smart TV NanoCell 43NANO75TPA",
-        "size": "43 inch",
-        "resolution": "4K",
-        "price_old": "16900000",
-        "discount": "-52%",
-        "price_sale": "7990000",
-        "rating": "4",
-        "rating_number": "84"
-    },
-    {
-        "name": "Sony Google TV KD-75X80L",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "35890000",
-        "discount": "-16%",
-        "price_sale": "29990000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Samsung Smart TV QLED Khung tranh QA55LS03B",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "23890000",
-        "discount": "-26%",
-        "price_sale": "17490000",
-        "rating": "4",
-        "rating_number": "22"
-    },
-    {
-        "name": "Samsung Smart TV QLED QA75Q60B",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "31890000",
-        "discount": "-25%",
-        "price_sale": "23890000",
-        "rating": "5",
-        "rating_number": "16"
-    },
-    {
-        "name": "Sony Google TV KD-50X85K",
-        "size": "50 inch",
-        "resolution": "4K",
-        "price_old": "19890000",
-        "discount": "-12%",
-        "price_sale": "17490000",
-        "rating": "4",
-        "rating_number": "17"
-    },
-    {
-        "name": "TCL Google TV 55P635",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "10490000",
-        "discount": "-31%",
-        "price_sale": "7190000",
-        "rating": "4",
-        "rating_number": "131"
-    },
-    {
-        "name": "Samsung Smart TV QLED QA65QN85C",
-        "size": "65 inch",
-        "resolution": "4K",
-        "price_old": "49890000",
-        "discount": "-36%",
-        "price_sale": "31490000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Samsung Smart TV UA75CU8000",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "29890000",
-        "discount": "-13%",
-        "price_sale": "25890000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Sony Google TV KD-85X80L",
+        "name": "Samsung Smart TV QLED QA85Q60B",
         "size": "85 inch",
         "resolution": "4K",
-        "price_old": "53890000",
-        "discount": "-18%",
-        "price_sale": "43900000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "LG Smart TV OLED 65A3PSA",
-        "size": "65 inch",
-        "resolution": "4K",
-        "price_old": "57900000",
-        "discount": "-36%",
-        "price_sale": "36890000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Samsung Smart TV QLED QA75QN85B",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "69890000",
-        "discount": "-42%",
-        "price_sale": "39990000",
+        "price_old": "46890000",
+        "discount": "-28%",
+        "price_sale": "33490000",
         "rating": "5",
-        "rating_number": "4"
+        "rating_number": "14",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273921/TimerThumb/smart-qled-4k-85-inch-samsung-qa85q60b-(79).jpg"
     },
     {
-        "name": "Samsung Smart TV QLED Khung tranh QA50LS03B",
-        "size": "50 inch",
-        "resolution": "4K",
-        "price_old": "20890000",
-        "discount": "-23%",
-        "price_sale": "15990000",
-        "rating": "4",
-        "rating_number": "10"
-    },
-    {
-        "name": "Sony Google TV KD-55X85K",
+        "name": "LG Smart TV OLED 55C2PSA",
         "size": "55 inch",
         "resolution": "4K",
-        "price_old": "22890000",
-        "discount": "-26%",
-        "price_sale": "16890000",
+        "price_old": "49900000",
+        "discount": "-54%",
+        "price_sale": "22900000",
         "rating": "4",
-        "rating_number": "33"
+        "rating_number": "41",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278538/TimerThumb/smart-oled-lg-4k-55-inch-55c2psa-(54).jpg"
     },
     {
-        "name": "LG Smart TV NanoCell 86NANO76SQA",
-        "size": "86 inch",
-        "resolution": "4K",
-        "price_old": "68900000",
-        "discount": "-50%",
-        "price_sale": "33890000",
-        "rating": "4",
-        "rating_number": "3"
-    },
-    {
-        "name": "iFFALCON Google TV 55U62",
+        "name": "Samsung Smart TV QLED QA55QN90C",
         "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "9990000",
-        "discount": "-15%",
-        "price_sale": "8490000",
-        "rating": "4",
-        "rating_number": "30"
-    },
-    {
-        "name": "Toshiba Android TV 43V35KP",
-        "size": "43 inch",
-        "resolution": "Full HD",
-        "price_old": "8990000",
-        "discount": "-11%",
-        "price_sale": "7990000",
-        "rating": "5",
-        "rating_number": "125"
-    },
-    {
-        "name": "LG Smart TV 86UR8050PSB",
-        "size": "86 inch",
-        "resolution": "4K",
-        "price_old": "45900000",
-        "discount": "-34%",
-        "price_sale": "29890000",
-        "rating": "0",
-        "rating_number": ""
-    },
-    {
-        "name": "Samsung Smart TV QLED QA55QN90A",
-        "size": "55 inch",
-        "resolution": "4K",
-        "price_old": "44890000",
-        "discount": "-58%",
-        "price_sale": "18490000",
-        "rating": "5",
-        "rating_number": "48"
-    },
-    {
-        "name": "Samsung Smart TV Crystal UHD UA85BU8000",
-        "size": "85 inch",
         "resolution": "4K",
         "price_old": "41890000",
-        "discount": "-24%",
-        "price_sale": "31490000",
-        "rating": "5",
-        "rating_number": "10"
-    },
-    {
-        "name": "LG Smart TV OLED 48C2PSA",
-        "size": "48 inch",
-        "resolution": "4K",
-        "price_old": "40900000",
-        "discount": "-47%",
-        "price_sale": "21490000",
-        "rating": "5",
-        "rating_number": "18"
-    },
-    {
-        "name": "LG Smart TV 50QNED80SQA",
-        "size": "50 inch",
-        "resolution": "4K",
-        "price_old": "22900000",
-        "discount": "-43%",
-        "price_sale": "12990000",
-        "rating": "4",
-        "rating_number": "33"
-    },
-    {
-        "name": "Samsung Smart TV QLED QA75QN85C",
-        "size": "75 inch",
-        "resolution": "4K",
-        "price_old": "76890000",
-        "discount": "-28%",
-        "price_sale": "54900000",
+        "discount": "-31%",
+        "price_sale": "28900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303174/TimerThumb/smart-tivi-neo-qled-4k-55-inch-samsung-qa55qn90c-(15).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA85Q80C",
@@ -1587,7 +1481,272 @@
         "discount": "-27%",
         "price_sale": "52900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303213/TimerThumb/smart-tivi-qled-4k-85-inch-samsung-qa85q80c-(15).jpg"
+    },
+    {
+        "name": "TCL Google TV 75P737",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "19990000",
+        "discount": "-17%",
+        "price_sale": "16490000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306071/TimerThumb/google-tivi-tcl-4k-75-inch-75p737-(6).jpg"
+    },
+    {
+        "name": "Casper Smart TV 32HX6200",
+        "size": "32 inch",
+        "resolution": "HD",
+        "price_old": "4990000",
+        "discount": "-24%",
+        "price_sale": "3790000",
+        "rating": "4",
+        "rating_number": "182",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/232170/TimerThumb/casper-32hx6200-(122).jpg"
+    },
+    {
+        "name": "LG Smart TV NanoCell 43NANO75TPA",
+        "size": "43 inch",
+        "resolution": "4K",
+        "price_old": "16900000",
+        "discount": "-52%",
+        "price_sale": "7990000",
+        "rating": "4",
+        "rating_number": "84",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236893/TimerThumb/nanocell-lg-43nano75tpa-(26).jpg"
+    },
+    {
+        "name": "Sony Google TV KD-50X85K",
+        "size": "50 inch",
+        "resolution": "4K",
+        "price_old": "19890000",
+        "discount": "-12%",
+        "price_sale": "17490000",
+        "rating": "4",
+        "rating_number": "17",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277430/TimerThumb/google-sony-4k-50-inch-kd-50x85k-(28).jpg"
+    },
+    {
+        "name": "Sony Google TV KD-85X80L",
+        "size": "85 inch",
+        "resolution": "4K",
+        "price_old": "53890000",
+        "discount": "-18%",
+        "price_sale": "43900000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304824/TimerThumb/google-tivi-sony-4k-85-inch-85x80l-(14).jpg"
+    },
+    {
+        "name": "Sony Google TV KD-75X80L",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "35890000",
+        "discount": "-16%",
+        "price_sale": "29990000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304825/TimerThumb/google-tivi-sony-4k-75-inch-75x80l-(14).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED Khung tranh QA55LS03B",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "23890000",
+        "discount": "-26%",
+        "price_sale": "17490000",
+        "rating": "4",
+        "rating_number": "22",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273407/TimerThumb/smart-khung-tranh-the-frame-qled-samsung-4k-55-inch-qa55ls03b-(76).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED QA75Q60B",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "31890000",
+        "discount": "-25%",
+        "price_sale": "23890000",
+        "rating": "5",
+        "rating_number": "16",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273922/TimerThumb/smart-qled-4k-75-inch-samsung-qa75q60b-(83).jpg"
+    },
+    {
+        "name": "TCL Google TV 55P635",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "10490000",
+        "discount": "-26%",
+        "price_sale": "7690000",
+        "rating": "4",
+        "rating_number": "131",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/281936/TimerThumb/google-tcl-4k-55-inch-55p635-(40).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED QA65QN85C",
+        "size": "65 inch",
+        "resolution": "4K",
+        "price_old": "49890000",
+        "discount": "-36%",
+        "price_sale": "31490000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303211/TimerThumb/smart-tivi-neo-qled-4k-65-inch-samsung-qa65qn85c-(17).jpg"
+    },
+    {
+        "name": "Samsung Smart TV UA75CU8000",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "29890000",
+        "discount": "-13%",
+        "price_sale": "25890000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303229/TimerThumb/smart-tivi-samsung-4k-75-inch-ua75cu8000-(18).jpg"
+    },
+    {
+        "name": "LG Smart TV OLED 65A3PSA",
+        "size": "65 inch",
+        "resolution": "4K",
+        "price_old": "57900000",
+        "discount": "-36%",
+        "price_sale": "36890000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306574/TimerThumb/smart-tivi-oled-lg-4k-65-inch-65a3psa-(13).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED QA75QN85B",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "69890000",
+        "discount": "-42%",
+        "price_sale": "39990000",
+        "rating": "5",
+        "rating_number": "4",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273402/TimerThumb/smart-neo-qled-4k-75-inch-samsung-qa75qn85b-(76).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED Khung tranh QA50LS03B",
+        "size": "50 inch",
+        "resolution": "4K",
+        "price_old": "20890000",
+        "discount": "-23%",
+        "price_sale": "15990000",
+        "rating": "4",
+        "rating_number": "10",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273408/TimerThumb/smart-khung-tranh-the-frame-qled-samsung-4k-50-inch-qa50ls03b-(80).jpg"
+    },
+    {
+        "name": "Sony Google TV KD-55X85K",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "22890000",
+        "discount": "-26%",
+        "price_sale": "16890000",
+        "rating": "4",
+        "rating_number": "33",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277432/TimerThumb/google-sony-4k-55-inch-kd-55x85k-(52).jpg"
+    },
+    {
+        "name": "LG Smart TV NanoCell 86NANO76SQA",
+        "size": "86 inch",
+        "resolution": "4K",
+        "price_old": "68900000",
+        "discount": "-50%",
+        "price_sale": "33890000",
+        "rating": "4",
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278571/TimerThumb/smart-nanocell-lg-4k-86-inch-86nano76sqa-(56).jpg"
+    },
+    {
+        "name": "iFFALCON Google TV 55U62",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "9990000",
+        "discount": "-15%",
+        "price_sale": "8490000",
+        "rating": "4",
+        "rating_number": "30",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/286107/TimerThumb/google-iffalcon-4k-55-inch-55u62-(50).jpg"
+    },
+    {
+        "name": "Toshiba Android TV 43V35KP",
+        "size": "43 inch",
+        "resolution": "Full HD",
+        "price_old": "8990000",
+        "discount": "-11%",
+        "price_sale": "7990000",
+        "rating": "5",
+        "rating_number": "125",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297317/TimerThumb/android-tivi-toshiba-43-inch-43v35kp-(16).jpg"
+    },
+    {
+        "name": "LG Smart TV 86UR8050PSB",
+        "size": "86 inch",
+        "resolution": "4K",
+        "price_old": "45900000",
+        "discount": "-34%",
+        "price_sale": "29890000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306593/TimerThumb/smart-tivi-lg-4k-86-inch-86ur8050psb-(13).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED QA55QN90A",
+        "size": "55 inch",
+        "resolution": "4K",
+        "price_old": "44890000",
+        "discount": "-58%",
+        "price_sale": "18490000",
+        "rating": "5",
+        "rating_number": "48",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235624/TimerThumb/neo-qled-4k-samsung-qa55qn90a-(103).jpg"
+    },
+    {
+        "name": "Samsung Smart TV Crystal UHD UA85BU8000",
+        "size": "85 inch",
+        "resolution": "4K",
+        "price_old": "41890000",
+        "discount": "-24%",
+        "price_sale": "31490000",
+        "rating": "5",
+        "rating_number": "10",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273377/TimerThumb/smart-samsung-4k-85-inch-ua85bu8000-(74).jpg"
+    },
+    {
+        "name": "LG Smart TV OLED 48C2PSA",
+        "size": "48 inch",
+        "resolution": "4K",
+        "price_old": "40900000",
+        "discount": "-47%",
+        "price_sale": "21490000",
+        "rating": "5",
+        "rating_number": "18",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278539/TimerThumb/smart-oled-lg-4k-48-inch-48c2psa-(57).jpg"
+    },
+    {
+        "name": "LG Smart TV 50QNED80SQA",
+        "size": "50 inch",
+        "resolution": "4K",
+        "price_old": "22900000",
+        "discount": "-43%",
+        "price_sale": "12990000",
+        "rating": "4",
+        "rating_number": "33",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278585/TimerThumb/smart-qned-lg-4k-50-inch-50qned80sqa-(55).jpg"
+    },
+    {
+        "name": "Samsung Smart TV QLED QA75QN85C",
+        "size": "75 inch",
+        "resolution": "4K",
+        "price_old": "76890000",
+        "discount": "-28%",
+        "price_sale": "54900000",
+        "rating": "0",
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303210/TimerThumb/smart-tivi-neo-qled-4k-75-inch-samsung-qa75qn85c-(15).jpg"
     },
     {
         "name": "Sony Google TV KD-75X85L",
@@ -1597,7 +1756,8 @@
         "discount": "-13%",
         "price_sale": "35900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/307268/google-tivi-sony-4k-75-inch-kd-75x85l-150523-035531-550x340.jpg"
     },
     {
         "name": "Casper Smart TV 43FX6200",
@@ -1607,7 +1767,8 @@
         "discount": "-27%",
         "price_sale": "5490000",
         "rating": "4",
-        "rating_number": "283"
+        "rating_number": "283",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/234997/TimerThumb/casper-43fx6200-(120).jpg"
     },
     {
         "name": "LG Smart TV NanoCell 55NANO86TPA",
@@ -1617,7 +1778,8 @@
         "discount": "-51%",
         "price_sale": "13490000",
         "rating": "4",
-        "rating_number": "25"
+        "rating_number": "25",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236934/TimerThumb/nanocell-lg-55nano86tpa-(92).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55QN90B",
@@ -1627,7 +1789,8 @@
         "discount": "-37%",
         "price_sale": "22990000",
         "rating": "4",
-        "rating_number": "12"
+        "rating_number": "12",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273398/TimerThumb/smart-neo-qled-4k-55-inch-samsung-qa55qn90b-(71).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA85QN85B",
@@ -1637,7 +1800,8 @@
         "discount": "-44%",
         "price_sale": "49990000",
         "rating": "5",
-        "rating_number": "6"
+        "rating_number": "6",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273401/TimerThumb/smart-neo-qled-4k-85-inch-samsung-qa85qn85b-(76).jpg"
     },
     {
         "name": "Sony Google TV OLED XR-48A90K",
@@ -1647,7 +1811,8 @@
         "discount": "-23%",
         "price_sale": "31890000",
         "rating": "4",
-        "rating_number": "3"
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277445/TimerThumb/google-oled-sony-4k-48-inch-xr-48a90k-(28).jpg"
     },
     {
         "name": "LG Smart TV OLED 42C2PSA",
@@ -1657,7 +1822,8 @@
         "discount": "-32%",
         "price_sale": "24900000",
         "rating": "5",
-        "rating_number": "13"
+        "rating_number": "13",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278540/TimerThumb/smart-oled-lg-4k-42-inch-42c2psa-(55).jpg"
     },
     {
         "name": "LG Smart TV 70UQ8000PSC",
@@ -1667,7 +1833,8 @@
         "discount": "-46%",
         "price_sale": "16490000",
         "rating": "4",
-        "rating_number": "22"
+        "rating_number": "22",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278556/TimerThumb/smart-lg-4k-70-inch-70uq8000psc-(54).jpg"
     },
     {
         "name": "LG Smart TV 65QNED86SQA",
@@ -1677,7 +1844,8 @@
         "discount": "-54%",
         "price_sale": "24990000",
         "rating": "5",
-        "rating_number": "47"
+        "rating_number": "47",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278581/TimerThumb/smart-qned-lg-4k-65-inch-65qned86sqa-(53).jpg"
     },
     {
         "name": "TCL Android TV QLED 98C735",
@@ -1687,7 +1855,8 @@
         "discount": "-36%",
         "price_sale": "69990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/291393/TimerThumb/android-tivi-qled-tcl-4k-98-inch-c73-(7).jpg"
     },
     {
         "name": "Toshiba Google TV 50C350LP",
@@ -1697,7 +1866,8 @@
         "discount": "-34%",
         "price_sale": "8490000",
         "rating": "4",
-        "rating_number": "12"
+        "rating_number": "12",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297320/TimerThumb/google-tivi-toshiba-4k-50-inch-50c350lp-(21).jpg"
     },
     {
         "name": "Toshiba Google TV QLED 55M550LP",
@@ -1707,7 +1877,8 @@
         "discount": "-13%",
         "price_sale": "12990000",
         "rating": "5",
-        "rating_number": "8"
+        "rating_number": "8",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297329/TimerThumb/google-tivi-qled-toshiba-4k-55-inch-55m550lp-(28).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA55QN85C",
@@ -1717,7 +1888,8 @@
         "discount": "-27%",
         "price_sale": "25890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303212/TimerThumb/smart-tivi-neo-qled-4k-55-inch-samsung-qa55qn85c-(15).jpg"
     },
     {
         "name": "AQUA Google TV AQT65P750UG",
@@ -1727,7 +1899,8 @@
         "discount": "",
         "price_sale": "12990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/310795/TimerThumb/google-tivi-aqua-4k-65-inch-aqt65p750ug-(8).jpg"
     },
     {
         "name": "Xiaomi Google TV A Pro L65M8-A2SEA",
@@ -1737,7 +1910,8 @@
         "discount": "-6%",
         "price_sale": "13990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/312859/TimerThumb/google-tivi-xiaomi-4k-65-inch-pro-l65m8-a2sea-(7).jpg"
     },
     {
         "name": "Sony Android TV KD-65X95J",
@@ -1747,17 +1921,19 @@
         "discount": "-35%",
         "price_sale": "25890000",
         "rating": "4",
-        "rating_number": "15"
+        "rating_number": "15",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/238899/TimerThumb/led-sony-kd-65x95j-(80).jpg"
     },
     {
         "name": "Sony Google TV XR-75X95K",
         "size": "75 inch",
         "resolution": "4K",
         "price_old": "79890000",
-        "discount": "-50%",
-        "price_sale": "39900000",
+        "discount": "-16%",
+        "price_sale": "66890000",
         "rating": "4",
-        "rating_number": "6"
+        "rating_number": "6",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277440/TimerThumb/google-mini-led-sony-4k-75-inch-xr-75x95k-(50).jpg"
     },
     {
         "name": "LG Smart TV 55QNED80SQA",
@@ -1767,7 +1943,8 @@
         "discount": "-40%",
         "price_sale": "15490000",
         "rating": "4",
-        "rating_number": "118"
+        "rating_number": "118",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278586/TimerThumb/smart-qned-lg-4k-55-inch-55qned80sqa-(73).jpg"
     },
     {
         "name": "Toshiba Google TV 75C350LP",
@@ -1777,7 +1954,8 @@
         "discount": "-34%",
         "price_sale": "18990000",
         "rating": "5",
-        "rating_number": "11"
+        "rating_number": "11",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297323/TimerThumb/google-tivi-toshiba-4k-75-inch-75c350lp-(27).jpg"
     },
     {
         "name": "Toshiba Google TV QLED 65M550LP",
@@ -1787,7 +1965,8 @@
         "discount": "-32%",
         "price_sale": "16990000",
         "rating": "4",
-        "rating_number": "9"
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297330/TimerThumb/google-tivi-qled-toshiba-4k-65-inch-65m550lp-(30).jpg"
     },
     {
         "name": "Samsung Smart TV OLED QA65S95CA",
@@ -1797,7 +1976,8 @@
         "discount": "-28%",
         "price_sale": "49900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304254/TimerThumb/smart-tivi-oled-samsung-4k-65-inch-qa65s95ca-(15).jpg"
     },
     {
         "name": "Samsung Smart TV OLED QA77S90CA",
@@ -1807,7 +1987,8 @@
         "discount": "-27%",
         "price_sale": "66900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304397/TimerThumb/smart-tivi-oled-samsung-4k-77-inch-qa77s90ca-(14).jpg"
     },
     {
         "name": "Sony Google TV OLED XR-65A80L",
@@ -1817,7 +1998,8 @@
         "discount": "-18%",
         "price_sale": "52900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304821/TimerThumb/google-tivi-oled-sony-4k-65-inch-65a80l-(13).jpg"
     },
     {
         "name": "Sony Google TV OLED XR-55A80L",
@@ -1827,7 +2009,8 @@
         "discount": "-19%",
         "price_sale": "37900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304823/TimerThumb/google-tivi-oled-sony-4k-55-inch-55a80l-(14).jpg"
     },
     {
         "name": "TCL Google TV QLED 55C745",
@@ -1837,7 +2020,8 @@
         "discount": "-31%",
         "price_sale": "14990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/305056/TimerThumb/google-tivi-qled-tcl-4k-55-inch-55c745-(6).jpg"
     },
     {
         "name": "TCL Google TV QLED 65C745",
@@ -1847,7 +2031,8 @@
         "discount": "-29%",
         "price_sale": "18990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/305057/TimerThumb/google-tivi-qled-tcl-4k-65-inch-65c745-(6).jpg"
     },
     {
         "name": "Sony Google TV XR-55X90L",
@@ -1857,7 +2042,8 @@
         "discount": "",
         "price_sale": "28890000",
         "rating": "5",
-        "rating_number": "4"
+        "rating_number": "4",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306492/TimerThumb/google-tivi-sony-4k-55-inch-xr-55x90l-(13).jpg"
     },
     {
         "name": "LG Smart TV OLED 77C3PSA",
@@ -1867,7 +2053,8 @@
         "discount": "-27%",
         "price_sale": "72890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306578/TimerThumb/smart-tivi-oled-lg-4k-77-inch-77c3psa-(14).jpg"
     },
     {
         "name": "LG Smart TV 86QNED80SRA",
@@ -1877,7 +2064,8 @@
         "discount": "-30%",
         "price_sale": "44890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306588/TimerThumb/smart-tivi-qned-lg-4k-86-inch-86qned80sra-(14).jpg"
     },
     {
         "name": "Sony Google TV XR-75X90L",
@@ -1887,7 +2075,8 @@
         "discount": "-21%",
         "price_sale": "39400000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/307264/TimerThumb/google-tivi-sony-4k-75-inch-xr-75x90l-(15).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA50AU7200",
@@ -1897,7 +2086,8 @@
         "discount": "-28%",
         "price_sale": "9900000",
         "rating": "4",
-        "rating_number": "56"
+        "rating_number": "56",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235800/TimerThumb/led-4k-samsung-ua50au7200-(105).jpg"
     },
     {
         "name": "Sony Android TV OLED XR-55A90J",
@@ -1907,17 +2097,19 @@
         "discount": "-30%",
         "price_sale": "36890000",
         "rating": "5",
-        "rating_number": "3"
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236558/TimerThumb/oled-sony-xr-55a90j-(99).jpg"
     },
     {
-        "name": "LG Smart TV OLED 48C1PTB",
+        "name": "Smart Tivi OLED LG 4K 48 inch 48C1PTB",
         "size": "48 inch",
         "resolution": "4K",
         "price_old": "39900000",
         "discount": "-53%",
         "price_sale": "18490000",
         "rating": "4",
-        "rating_number": "26"
+        "rating_number": "26",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236898/TimerThumb/oled-lg-48c1ptb-(96).jpg"
     },
     {
         "name": "LG Smart TV QNED 75QNED91TPA",
@@ -1927,7 +2119,8 @@
         "discount": "-34%",
         "price_sale": "57890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/244299/TimerThumb/smart-qned-4k-75-inch-75qned91tpa-(86).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65Q80B",
@@ -1937,17 +2130,19 @@
         "discount": "-21%",
         "price_sale": "21990000",
         "rating": "4",
-        "rating_number": "8"
+        "rating_number": "8",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273412/TimerThumb/smart-qled-4k-65-inch-samsung-qa65q80b-(74).jpg"
     },
     {
         "name": "Sony Google TV KD-85X85K",
         "size": "85 inch",
         "resolution": "4K",
         "price_old": "60890000",
-        "discount": "-29%",
-        "price_sale": "42700000",
+        "discount": "-16%",
+        "price_sale": "50890000",
         "rating": "5",
-        "rating_number": "6"
+        "rating_number": "6",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277435/TimerThumb/google-sony-4k-85-inch-kd-85x85k-(76).jpg"
     },
     {
         "name": "LG Smart TV 75QNED80SQA",
@@ -1957,7 +2152,8 @@
         "discount": "-45%",
         "price_sale": "28490000",
         "rating": "5",
-        "rating_number": "35"
+        "rating_number": "35",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278588/TimerThumb/smart-qned-lg-4k-75-inch-75qned80sqa-(50).jpg"
     },
     {
         "name": "Toshiba Google TV QLED 50M550LP",
@@ -1967,7 +2163,8 @@
         "discount": "-7%",
         "price_sale": "11990000",
         "rating": "2",
-        "rating_number": "3"
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297326/TimerThumb/google-tivi-Qled-toshiba-4k-50-inch-50m550lp-(32).jpg"
     },
     {
         "name": "Samsung Smart TV OLED QA55S95B",
@@ -1977,7 +2174,8 @@
         "discount": "-31%",
         "price_sale": "29900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/298393/TimerThumb/smart-tivi-oled-samsung-4k-55-inch-qa55s95b-(11).jpg"
     },
     {
         "name": "Samsung Smart TV OLED QA65S95B",
@@ -1987,7 +2185,8 @@
         "discount": "-34%",
         "price_sale": "36990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/298394/TimerThumb/smart-tivi-oled-samsung-4k-65-inch-qa65s95b-(14).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65QN90C",
@@ -1997,7 +2196,8 @@
         "discount": "-33%",
         "price_sale": "36490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303172/TimerThumb/smart-tivi-neo-qled-4k-65-inch-samsung-qa65qn90c-(14).jpg"
     },
     {
         "name": "LG Smart TV 75UR9050PSK",
@@ -2007,7 +2207,8 @@
         "discount": "-21%",
         "price_sale": "25890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306595/TimerThumb/smart-tivi-lg-4k-75-inch-75ur9050psk-(13).jpg"
     },
     {
         "name": "Sony Google TV XR-85X90L",
@@ -2017,7 +2218,8 @@
         "discount": "-19%",
         "price_sale": "58400000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/307266/TimerThumb/google-tivi-sony-4k-85-inch-xr-85x90l-(2).jpg"
     },
     {
         "name": "Sony Google TV XR-65X95L",
@@ -2027,7 +2229,8 @@
         "discount": "-19%",
         "price_sale": "49600000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308548/TimerThumb/google-tivi-miniled-sony-4k-65-inch-xr-65x95l-(14).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA75Q75R",
@@ -2037,7 +2240,8 @@
         "discount": "-18%",
         "price_sale": "48710000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/200496/TimerThumb/samsung-qa75q75r-(52).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65Q80R",
@@ -2047,7 +2251,8 @@
         "discount": "-18%",
         "price_sale": "40000000",
         "rating": "5",
-        "rating_number": "7"
+        "rating_number": "7",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/200498/TimerThumb/samsung-qa65q80r-(51).jpg"
     },
     {
         "name": "Sony Android TV 49X9500H",
@@ -2057,7 +2262,8 @@
         "discount": "",
         "price_sale": "24900000",
         "rating": "4",
-        "rating_number": "5"
+        "rating_number": "5",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/224389/TimerThumb/sony-kd-49x9500h-(20).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA70AU8100",
@@ -2067,7 +2273,8 @@
         "discount": "-43%",
         "price_sale": "17900000",
         "rating": "4",
-        "rating_number": "30"
+        "rating_number": "30",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235795/TimerThumb/led-4k-samsung-ua70au8100-(29).jpg"
     },
     {
         "name": "Sony Android TV KD-43X85J",
@@ -2077,7 +2284,8 @@
         "discount": "",
         "price_sale": "17890000",
         "rating": "4",
-        "rating_number": "28"
+        "rating_number": "28",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/238872/TimerThumb/led-sony-kd-43x85j-(74).jpg"
     },
     {
         "name": "LG Smart TV OLED 55G1PTA",
@@ -2087,7 +2295,8 @@
         "discount": "-55%",
         "price_sale": "25990000",
         "rating": "5",
-        "rating_number": "6"
+        "rating_number": "6",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/240406/TimerThumb/smart-oled-lg-4k-55-inch-55g1pta-(86).jpg"
     },
     {
         "name": "LG Smart TV QNED 65QNED91TPA",
@@ -2097,7 +2306,8 @@
         "discount": "-48%",
         "price_sale": "31890000",
         "rating": "4",
-        "rating_number": "3"
+        "rating_number": "3",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/244298/TimerThumb/smart-qned-4k-65-inch-65qned91tpa-(81).jpg"
     },
     {
         "name": "LG Smart TV QNED 75QNED99TPB",
@@ -2107,7 +2317,8 @@
         "discount": "-35%",
         "price_sale": "89890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/244444/TimerThumb/smart-qned-lg-8k-75-inch-75qned99tpa-(82).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA55BU8500",
@@ -2117,7 +2328,8 @@
         "discount": "-17%",
         "price_sale": "13990000",
         "rating": "4",
-        "rating_number": "15"
+        "rating_number": "15",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273374/TimerThumb/smart-samsung-4k-55-inch-ua55bu8500-(83).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA75BU8000",
@@ -2127,7 +2339,8 @@
         "discount": "-26%",
         "price_sale": "19690000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273378/TimerThumb/smart-samsung-4k-75-inch-ua75bu8000-(29).jpg"
     },
     {
         "name": "Samsung Smart TV QLED Khung tranh QA75LS03B",
@@ -2137,7 +2350,8 @@
         "discount": "-30%",
         "price_sale": "28990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273405/TimerThumb/smart-khung-tranh-the-frame-qled-samsung-4k-75-inch-qa75ls03b-(65).jpg"
     },
     {
         "name": "Sony Google TV OLED XR-55A80K",
@@ -2147,7 +2361,8 @@
         "discount": "-24%",
         "price_sale": "32490000",
         "rating": "4",
-        "rating_number": "10"
+        "rating_number": "10",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/277442/TimerThumb/google-oled-sony-4k-55-inch-xr-55a80k-(51).jpg"
     },
     {
         "name": "LG Smart TV OLED 48A2PSA",
@@ -2157,7 +2372,8 @@
         "discount": "-42%",
         "price_sale": "18990000",
         "rating": "5",
-        "rating_number": "23"
+        "rating_number": "23",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278531/TimerThumb/smart-oled-lg-4k-48-inch-48a2psa-(30).jpg"
     },
     {
         "name": "LG Smart TV OLED 65G2PSA",
@@ -2167,7 +2383,8 @@
         "discount": "-52%",
         "price_sale": "39990000",
         "rating": "5",
-        "rating_number": "5"
+        "rating_number": "5",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278543/TimerThumb/smart-oled-lg-4k-65-inch-65g2psa-(54).jpg"
     },
     {
         "name": "LG Smart TV OLED 55G2PSA",
@@ -2177,7 +2394,8 @@
         "discount": "-49%",
         "price_sale": "29990000",
         "rating": "5",
-        "rating_number": "6"
+        "rating_number": "6",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278544/TimerThumb/smart-oled-lg-4k-55-inch-55g2psa-(76).jpg"
     },
     {
         "name": "LG Smart TV 55QNED86SQA",
@@ -2187,7 +2405,8 @@
         "discount": "-48%",
         "price_sale": "19990000",
         "rating": "5",
-        "rating_number": "7"
+        "rating_number": "7",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278580/TimerThumb/smart-qned-lg-4k-55-inch-55qned86sqa-(56).jpg"
     },
     {
         "name": "Samsung Smart TV QLED Kiểu chữ I QA55LS01BB",
@@ -2197,7 +2416,8 @@
         "discount": "",
         "price_sale": "23890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/284694/smart-tivi-kieu-chu-co-chan-the-serif-qled-samsung-4k-55-inch-qa55ls01bb-180722-104114-550x340.jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA85QN900C",
@@ -2207,7 +2427,8 @@
         "discount": "-37%",
         "price_sale": "137690000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303159/smart-tivi-neo-qled-8k-85-inch-samsung-qa85qn900c-010323-050133-550x340.jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA85Q70C",
@@ -2217,7 +2438,8 @@
         "discount": "-27%",
         "price_sale": "46900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303219/TimerThumb/smart-tivi-qled-4k-85-inch-samsung-qa85q70c-(15).jpg"
     },
     {
         "name": "LG Smart TV OLED 55G3PSA",
@@ -2227,7 +2449,8 @@
         "discount": "-27%",
         "price_sale": "39890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306580/TimerThumb/smart-tivi-oled-evo-lg-4k-55-inch-55g3psa-(14).jpg"
     },
     {
         "name": "Sony Google TV XR-75X95L",
@@ -2237,7 +2460,8 @@
         "discount": "-18%",
         "price_sale": "66900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308547/TimerThumb/google-tivi-miniled-sony-4k-75-inch-xr-75x95l-(8).jpg"
     },
     {
         "name": "AQUA Android TV AQT65D67UG",
@@ -2247,7 +2471,8 @@
         "discount": "-7%",
         "price_sale": "12490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/313848/TimerThumb/android-tivi-aqua-4k-65-inch-aqt65d67ug-(7).jpg"
     },
     {
         "name": "Samsung Smart TV Crystal UHD UA75TU8100",
@@ -2257,7 +2482,8 @@
         "discount": "-41%",
         "price_sale": "20890000",
         "rating": "5",
-        "rating_number": "4"
+        "rating_number": "4",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/219256/TimerThumb/samsung-ua75tu8100-(56).jpg"
     },
     {
         "name": "Sony Android TV OLED KD-48A9S",
@@ -2267,7 +2493,8 @@
         "discount": "-12%",
         "price_sale": "34890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/228890/TimerThumb/sony-kd-48a9s-(84).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA85QN85A",
@@ -2277,7 +2504,8 @@
         "discount": "-36%",
         "price_sale": "79890000",
         "rating": "5",
-        "rating_number": "4"
+        "rating_number": "4",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/235632/TimerThumb/neo-qled-4k-samsung-qa85qn85a-(91).jpg"
     },
     {
         "name": "Samsung Smart TV Micro LED The Wall MNA110MS1A",
@@ -2287,7 +2515,8 @@
         "discount": "",
         "price_sale": "3499000000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236803/untitled-3-550x340.jpg"
     },
     {
         "name": "Samsung Smart TV Micro LED The Wall MNA99MS1A",
@@ -2297,7 +2526,8 @@
         "discount": "",
         "price_sale": "2999000000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236806/untitled-3-2-550x340.jpg"
     },
     {
         "name": "LG Smart TV 70UP7750PTB",
@@ -2307,7 +2537,8 @@
         "discount": "-32%",
         "price_sale": "22900000",
         "rating": "4",
-        "rating_number": "10"
+        "rating_number": "10",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236890/TimerThumb/led-lg-70up7750ptb-(82).jpg"
     },
     {
         "name": "LG Smart TV 75UP7750PTB",
@@ -2317,7 +2548,8 @@
         "discount": "-58%",
         "price_sale": "17490000",
         "rating": "4",
-        "rating_number": "9"
+        "rating_number": "9",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236891/TimerThumb/led-lg-75up7750ptb-(26).jpg"
     },
     {
         "name": "LG Smart TV NanoCell 50NANO86TPA",
@@ -2327,7 +2559,8 @@
         "discount": "",
         "price_sale": "24900000",
         "rating": "4",
-        "rating_number": "15"
+        "rating_number": "15",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236933/nano86-550x340.jpg"
     },
     {
         "name": "LG Smart TV 43UP7800PTB",
@@ -2337,7 +2570,8 @@
         "discount": "-30%",
         "price_sale": "11100000",
         "rating": "4",
-        "rating_number": "134"
+        "rating_number": "134",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236935/TimerThumb/led-lg-43up7800ptb-(67).jpg"
     },
     {
         "name": "LG Smart TV 50UP7800PTB",
@@ -2347,7 +2581,8 @@
         "discount": "-10%",
         "price_sale": "17400000",
         "rating": "4",
-        "rating_number": "28"
+        "rating_number": "28",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/236936/TimerThumb/led-lg-50up7800ptb-(72).jpg"
     },
     {
         "name": "LG Smart TV OLED 48A1PTA",
@@ -2357,7 +2592,8 @@
         "discount": "",
         "price_sale": "32900000",
         "rating": "5",
-        "rating_number": "77"
+        "rating_number": "77",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/240672/TimerThumb/smart-oled-lg-4k-48-inch-48a1pta-(84).jpg"
     },
     {
         "name": "Sony Android TV KD-65X80AJ",
@@ -2367,7 +2603,8 @@
         "discount": "-7%",
         "price_sale": "22090000",
         "rating": "4",
-        "rating_number": "22"
+        "rating_number": "22",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/247849/android-sony-4k-65-inch-kd-65x80aj-251122-021633-550x340.jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA65QN900B",
@@ -2377,7 +2614,8 @@
         "discount": "-27%",
         "price_sale": "72900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/273395/TimerThumb/smart-neo-qled-8k-65-inch-samsung-qa65qn900b-(73).jpg"
     },
     {
         "name": "TCL Google TV QLED 43Q636",
@@ -2387,7 +2625,8 @@
         "discount": "",
         "price_sale": "11490000",
         "rating": "4",
-        "rating_number": "83"
+        "rating_number": "83",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/276068/TimerThumb/google-tcl-4k-43-inch-43q636-(49).jpg"
     },
     {
         "name": "LG Smart TV QNED 75QNED99SQB",
@@ -2397,7 +2636,8 @@
         "discount": "-28%",
         "price_sale": "117390000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/278583/TimerThumb/smart-qned-lg-8k-75-inch-75qned99sqb-(13).jpg"
     },
     {
         "name": "Samsung Smart TV QLED Kiểu chữ I QA50LS01BB",
@@ -2407,7 +2647,8 @@
         "discount": "",
         "price_sale": "",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/284692/smart-tivi-kieu-chu-co-chan-the-serif-qled-samsung-4k-50-inch-qa50ls01bb-180722-101115-550x340.jpg"
     },
     {
         "name": "iFFALCON Google TV 65U62",
@@ -2417,7 +2658,8 @@
         "discount": "",
         "price_sale": "13490000",
         "rating": "4",
-        "rating_number": "13"
+        "rating_number": "13",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/286108/TimerThumb/google-iffalcon-4k-65-inch-65u62-(15).jpg"
     },
     {
         "name": "Toshiba Android TV 32V35KP",
@@ -2427,7 +2669,8 @@
         "discount": "",
         "price_sale": "6990000",
         "rating": "5",
-        "rating_number": "17"
+        "rating_number": "17",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297316/TimerThumb/android-tivi-toshiba-32-inch-32v35kp-(23).jpg"
     },
     {
         "name": "Toshiba Smart TV OLED 55X9900LP",
@@ -2437,7 +2680,8 @@
         "discount": "-44%",
         "price_sale": "19990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297332/TimerThumb/smart-tivi-oled-toshiba-4k-55-inch-55x9900lp-(24).jpg"
     },
     {
         "name": "Toshiba Smart TV OLED 65X9900LP",
@@ -2447,7 +2691,8 @@
         "discount": "-41%",
         "price_sale": "26990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/297333/TimerThumb/smart-tivi-oled-toshiba-4k-65-inch-65x9900lp-(20).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA75QN90C",
@@ -2457,7 +2702,8 @@
         "discount": "-42%",
         "price_sale": "48790000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303170/TimerThumb/smart-tivi-neo-qled-4k-75-inch-samsung-qa75qn90c-(12).jpg"
     },
     {
         "name": "Samsung Smart TV QLED QA85QN85C",
@@ -2467,7 +2713,8 @@
         "discount": "-39%",
         "price_sale": "60490000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/303209/TimerThumb/smart-tivi-neo-qled-4k-85-inch-samsung-qa85qn85c-(14).jpg"
     },
     {
         "name": "Samsung Smart TV OLED QA77S95CA",
@@ -2477,7 +2724,8 @@
         "discount": "-28%",
         "price_sale": "78900000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304253/smart-tivi-oled-samsung-4k-77-inch-qa77s95ca-200323-025327-550x340.jpg"
     },
     {
         "name": "Sony Google TV OLED XR-77A80L",
@@ -2487,7 +2735,8 @@
         "discount": "-18%",
         "price_sale": "77700000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/304820/TimerThumb/google-tivi-oled-sony-4k-77-inch-77a80l-(14).jpg"
     },
     {
         "name": "TCL Google TV QLED 65C845",
@@ -2497,7 +2746,8 @@
         "discount": "-15%",
         "price_sale": "31990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/305483/TimerThumb/google-tivi-qled-tcl-4k-65-inch-65c845-(3).jpg"
     },
     {
         "name": "TCL Google TV QLED 75C845",
@@ -2507,7 +2757,8 @@
         "discount": "-25%",
         "price_sale": "35990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/305484/TimerThumb/google-tivi-qled-tcl-4k-75-inch-75c845-(6).jpg"
     },
     {
         "name": "LG Smart TV OLED 48C3PSA",
@@ -2517,7 +2768,8 @@
         "discount": "-14%",
         "price_sale": "31530000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306575/smart-tivi-oled-lg-4k-43-inch-43c3psa-080523-102231-550x340.jpg"
     },
     {
         "name": "LG Smart TV OLED 83C3PSA",
@@ -2527,7 +2779,8 @@
         "discount": "-19%",
         "price_sale": "119890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306579/TimerThumb/smart-tivi-oled-lg-4k-83-inch-83c3psa-(13).jpg"
     },
     {
         "name": "LG Smart TV OLED 65G3PSA",
@@ -2537,7 +2790,8 @@
         "discount": "-24%",
         "price_sale": "56890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306581/TimerThumb/smart-tivi-oled-evo-lg-4k-65-inch-65g3psa-(14).jpg"
     },
     {
         "name": "LG Smart TV OLED 88Z3PSA",
@@ -2547,7 +2801,8 @@
         "discount": "",
         "price_sale": "",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306583/smart-tivi-oled-lg-8k-88-inch-88z3psa-080523-105232-550x340.jpg"
     },
     {
         "name": "LG Smart TV 65QNED86SRA",
@@ -2557,7 +2812,8 @@
         "discount": "-29%",
         "price_sale": "38890000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306589/smart-tivi-qned-lg-4k-65-inch-65qned86sra-080523-110628-550x340.jpg"
     },
     {
         "name": "LG Smart TV 75QNED86SRA",
@@ -2567,7 +2823,8 @@
         "discount": "-42%",
         "price_sale": "45880000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/306590/TimerThumb/smart-tivi-qned-lg-4k-75-inch-75qned86sra-(8).jpg"
     },
     {
         "name": "Sony Google TV XR-85X95L",
@@ -2577,7 +2834,8 @@
         "discount": "-24%",
         "price_sale": "90000000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/308546/google-tivi-miniled-sony-4k-85-inch-xr-85x95l-020623-102632-550x340.jpg"
     },
     {
         "name": "AQUA Android TV AQT50D67UG",
@@ -2587,6 +2845,7 @@
         "discount": "",
         "price_sale": "7990000",
         "rating": "0",
-        "rating_number": ""
+        "rating_number": "",
+        "product_img": "https://cdn.tgdd.vn/Products/Images/1942/317048/android-tivi-aqua-4k-50-inch-aqt50d67ug-191023-094716-550x340.jpg"
     }
 ]
