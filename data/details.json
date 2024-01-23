@@ -1,0 +1,141 @@
+[
+    {
+        "PD_id": 1,
+        "name": "Máy giặt Casper Inverter 8 kg WF-8VG1",
+        "description": "Máy giặt Máy giặt Casper Inverter 8 kg WF-8VG1 giá rẻ chính hãng, trả góp 0%, bảo hành chính hãng - Giao hàng tận nơi, lắp đặt nhanh chóng, khuyến mãi hấp dẫn tại Điện máy XANH!",
+        "brand": {
+            "Type": "Brand",
+            "name": [
+                "Casper"
+            ]
+        },
+        "product_description": "Máy giặt Casper Inverter 8 kg WF-8VG1 trang bị 16 chương trình giặt đa dạng hỗ trợ đắc lực nhu cầu giặt giũ trong gia đình với công nghệ giặt hơi nước Steam Wash diệt khuẩn 99.99%, công nghệ suy luận ảo Fuzzy Logic xác định khối lượng quần áo giúp tiết kiệm nước, công nghệ Inverter tiết kiệm điện năng.\nTổng quan thiết kế\n- Kiểu dáng:\nmáy giặt cửa trước\nthiết kế tối giản và sang trọng với gam màu tối thanh lịch, phù hợp với nhiều không gian nội thất khác nhau.\n-\nBảng điều khiển tiếng Việt\ndễ sử dụng, màn hình hiển thị rõ ràng, tích hợp núm xoay chọn chương trình giặt và nút nhấn điều chỉnh các thông số khác dễ dàng, kể cả người lớn tuổi.\n- Vỏ\nmáy giặt Casper\nđược làm từ chất liệu kim loại sơn tĩnh điện bền chắc và hạn chế gỉ sét, nắp máy bằng kính cường lực có bền bỉ, chịu lực tốt. Ngoài ra, phần nắp trong suốt hỗ trợ bạn dễ dàng nhìn vào bên trong để có thể quan sát cách mà chu trình giặt diễn ra.\n- Lồng giặt có chất liệu thép không gỉ cứng cáp, hạn chế han gỉ cũng như hình thành các mảng bám cứng đầu, ảnh hưởng đến chất lượng quần áo khi giặt.\nKhối lượng giặt và chương trình giặt\n- Khối lượng giặt\n8 kg\nphù hợp với gia đình\ncó từ 3 - 5 thành viên\nhoặc ít người hơn nhưng có nhu cầu giặt giũ cao.\n- Máy giặt được tích hợp\n16 chương trình giặt\nnhư: Đồ cotton, giặt chăn ga, giặt hơi nước, đồ Jeans, đồ len, giặt 45 phút, đồ thể thao, đồ trẻ em, giặt nhanh 15 phút,... (xem thêm tại bảng thông số kỹ thuật).\nTrong đó có chương trình nổi bật như:\n+\nGiặt nhanh 15 phút:\ndùng cho đồ mỏng, nhẹ và ít bám bẩn, giúp người dùng tiết kiệm thời gian, cũng như điện năng tiêu thụ mà vẫn đảm bảo quần áo sáng bóng.\n+\nGiặt chăn ga:\nlàm sạch hiệu quả, tiết kiệm sức lực cũng như thời gian đáng kể so với giặt tay hay đem ra tiệm giặt ủi.\n+\nĐồ len:\nlà dạng đồ dễ bị hư tổn nếu giặt không đúng cách, tuy nhiên với chương trình giặt này, bạn sẽ yên tâm hơn khi quần áo từ chất liệu len sẽ được giặt sạch, thơm tho và như mới.",
+        "image": [
+            "https://cdn.tgdd.vn/Products/Images/1944/316033/casper-inverter-8-kg-wf-8vg1-161123-030704-600x600.jpg"
+        ],
+        "additionalProperty": [
+            {
+                "Type": "PropertyValue",
+                "name": "Loại máy giặt",
+                "value": "Cửa trước"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Lồng giặt",
+                "value": "Lồng ngang"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Khối lượng giặt",
+                "value": "8 Kg"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Số người sử dụng",
+                "value": "Từ 3 - 5 người"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Kiểu động cơ",
+                "value": "BLDC"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Tốc độ quay vắt tối đa",
+                "value": "1400 vòng/phút"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Chất liệu lồng giặt",
+                "value": "Thép không gỉ"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Chất liệu vỏ máy",
+                "value": "Kim loại sơn tĩnh điện"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Chất liệu nắp máy",
+                "value": "Kính chịu lực"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Sản xuất tại",
+                "value": "Trung Quốc"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Dòng sản phẩm",
+                "value": "2023"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Thời gian bảo hành động cơ",
+                "value": "12 năm"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Hiệu suất sử dụng điện",
+                "value": "30.64 Wh/kg"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Loại Inverter",
+                "value": "Công nghệ Inverter"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Chương trình giặt",
+                "value": "Giũ + vắt"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Công nghệ giặt",
+                "value": "Công nghệ giặt hơi nước Steam Wash"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Công nghệ sấy",
+                "value": "Không có"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Bảng điều khiển",
+                "value": "Tiếng Việt, nút nhấn, núm xoay, màn LED hiển thị"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Tiện ích",
+                "value": "Chỉnh nhiệt độ nước"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Kích thước, khối lượng",
+                "value": "Cao 85 cm - Ngang 59.5 cm - Sâu 49.5 cm - Nặng 60 kg"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Chiều dài ống cấp nước",
+                "value": "107 cm"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Chiều dài ống thoát nước",
+                "value": "170 cm"
+            },
+            {
+                "Type": "PropertyValue",
+                "name": "Hãng",
+                "value": "Casper. <span class='parameter__manu'>Xem thông tin hãng</span>"
+            }
+        ],
+        "offers": {
+            "Type": "Offer",
+            "url": "https://www.dienmayxanh.com/may-giat/casper-inverter-8-kg-wf-8vg1",
+            "priceCurrency": "VND",
+            "price": 5590000,
+            "priceValidUntil": "09/25/2024"
+        }
+    }
+]
